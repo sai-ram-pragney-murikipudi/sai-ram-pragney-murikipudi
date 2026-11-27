@@ -1,117 +1,105 @@
-<!--
-  GITHUB PROFILE README
-  Design: Midnight Blue | Electric Cyan | Developer / CLI Aesthetic
-  Replace the banner path with your final generated banner.
--->
+# SAI RAM PRAGNEY MURIKIPUDI
 
-<!-- ==================== HEADER ==================== -->
+> Computer Science & Information Technology Student | Aspiring Software Engineer
 
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="SAI RAM PRAGNEY MURIKIPUDI"/>
-</p>
+---
 
-<!-- ==================== ABOUT ME ==================== -->
+## About Me
 
-<h2>👨‍💻 About Me</h2>
+I'm a B.Tech Computer Science and Information Technology student at KLH University, Hyderabad, India.
 
-Hi! I'm **Sai Ram Pragney Murikipudi**, a B.Tech Computer Science and Information Technology student at KLH University, Hyderabad, India.
-
-I'm interested in software engineering, backend development, artificial intelligence and computer science fundamentals.
-
-I enjoy exploring how software works, solving programming problems and turning ideas into practical applications.
+I'm interested in software engineering, backend development, artificial intelligence and computer science fundamentals. I enjoy learning how software works, solving programming problems and building practical applications.
 
 - 🎓 B.Tech in Computer Science and Information Technology
-- 💻 Currently focusing on Python, problem-solving and backend development
-- 🧠 Strengthening my Data Structures and Algorithms fundamentals
-- ⚙️ Exploring AI-powered applications and software systems
+- 💻 Exploring software development and backend engineering
+- 🧠 Practising Data Structures and Algorithms
+- ⚙️ Exploring AI-powered applications
 - 🐧 Interested in Linux, systems and developer tools
-- 🚀 Building projects to turn concepts into practical experience
+- 🚀 Learning by building and experimenting
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
+## Technical Skills
 
-<h2>🛠️ Technologies & Tools</h2>
+**Programming Languages**
 
-<h3>Programming Languages</h3>
+`Python` `Java` `C` `JavaScript`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js" alt="Programming Languages"/>
-</p>
+**Backend Development**
 
-<h3>Development & Databases</h3>
+`FastAPI` `REST APIs`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,html,css,react,mysql,postgres,firebase" alt="Development Technologies"/>
-</p>
+**Web Development**
 
-<h3>Tools & Platforms</h3>
+`HTML` `CSS` `JavaScript` `React`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker,vercel" alt="Developer Tools"/>
-</p>
+**Databases**
+
+`MySQL` `PostgreSQL` `Firebase`
+
+**Tools & Platforms**
+
+`Git` `GitHub` `Linux` `VS Code` `Postman` `Docker` `Vercel`
 
 ---
 
-<!-- ==================== CURRENT FOCUS ==================== -->
-
-<h2>🎯 Current Focus</h2>
+## Current Focus
 
 - Strengthening Python programming and problem-solving.
 - Practising Data Structures and Algorithms.
 - Learning backend development with FastAPI.
-- Understanding database design and SQL with MySQL.
-- Exploring Artificial Intelligence and Machine Learning.
-- Improving Linux, Git and development workflows.
-- Learning the fundamentals of containerization with Docker.
+- Exploring SQL and database design using MySQL.
+- Studying Artificial Intelligence and Machine Learning.
+- Improving Linux and development workflows.
 
 ---
 
-<!-- ==================== PROJECTS ==================== -->
+## Featured Projects
 
-<h2>🚀 Selected Projects</h2>
-
-<h3>1. PixelCheck</h3>
-
+### PixelCheck
 An AI-powered deepfake detection project focused on identifying manipulated digital media.
 
-**Focus:** Artificial Intelligence · Deep Learning · Computer Vision
-
-<h3>2. SignatureFlow AI</h3>
-
-AI-Powered Intelligent Document Analysis and Contactless Signature Placement System.
-
-Exploring document understanding, webcam-based air-signature interaction and intelligent signature placement.
-
-**Focus:** AI · Document Processing · Computer Vision · Web Development
-
-<h3>3. Disaster Alert & Community Response</h3>
-
-An India-focused disaster management platform designed to support disaster reporting and community response coordination.
-
-**Focus:** Web Development · Firebase · Database Management · Community Response
-
-<h3>4. Organisational Network Security</h3>
-
-A cybersecurity internship project completed through NIIT Foundation and Cisco, involving secure organizational network simulation using Cisco Packet Tracer.
-
-**Focus:** Networking · WPA2-AES · MAC Filtering · Cisco Packet Tracer
-
-<h3>5. Linux File System</h3>
-
-A systems programming project exploring file operations and Linux/POSIX system calls using C.
-
-**Focus:** C · Linux · Operating Systems · Systems Programming
+**Areas:** AI · Deep Learning · Computer Vision
 
 ---
 
-<!-- ==================== LEARNING & EXPERIENCE ==================== -->
+### SignatureFlow AI
+AI-Powered Intelligent Document Analysis and Contactless Signature Placement System.
 
-<h2>📚 Learning & Experience</h2>
+Exploring document analysis, contactless signature interaction and intelligent signature placement.
+
+**Areas:** AI · Document Processing · Computer Vision
+
+---
+
+### Disaster Alert & Community Response
+An India-focused disaster management platform designed to support disaster reporting and community response coordination.
+
+**Areas:** Web Development · Firebase · Database Management
+
+---
+
+### Organisational Network Security
+A cybersecurity internship project completed through NIIT Foundation and Cisco, involving secure organizational network simulation using Cisco Packet Tracer.
+
+**Areas:** Networking · WPA2-AES · MAC Filtering · Cisco Packet Tracer
+
+---
+
+### Linux File System
+A systems programming project exploring file operations and Linux/POSIX system calls using C.
+
+**Areas:** C · Linux · Operating Systems
+
+---
+
+## Learning & Experience
 
 - NIIT Foundation × Cisco Cybersecurity Internship
 - Cisco Learn-A-Thon
-- Cisco HTML, CSS and JavaScript Essentials
+- Cisco HTML Essentials
+- Cisco CSS Essentials
+- Cisco JavaScript Essentials
 - Cisco Introduction to Cybersecurity
 - Cisco Introduction to Modern AI
 - Hack The Box – Academician
@@ -120,27 +108,15 @@ A systems programming project exploring file operations and Linux/POSIX system c
 
 ---
 
-<!-- ==================== GITHUB ACTIVITY ==================== -->
+## GitHub
 
-<h2>📊 GitHub Activity</h2>
-
-<p>
-  I use GitHub to document my learning, practise programming and build projects.
-</p>
-
-<!-- GitHub statistics can be added after confirming the account username. -->
+I use GitHub to document my learning, practise programming and develop projects.
 
 ---
 
-<!-- ==================== CONNECT ==================== -->
+## Connect
 
-<h2>🌐 Connect With Me</h2>
-
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/)
 
 ---
 
